@@ -36,7 +36,7 @@ Click the following link to read the project.
 
 ## Project doing
 
-- [ ] [Project 1: Boolean Logic](projects/01/)
+- [x] [Project 1: Boolean Logic](projects/01/)
 - [ ] [Project 2: Boolean Arithmetic]()
 - [ ] [Project 3: Sequential Logic]()
 - [ ] [Project 4: Machine Language]()
