@@ -35,7 +35,7 @@ $ git clone https://github.com/wuxueqian14/nand2tetris.git
 ## 项目进展
 
 - [x] [Project 1: Boolean Logic](projects/01/)
-- [ ] [Project 2: Boolean Arithmetic]()
+- [x] [Project 2: Boolean Arithmetic](projects/02/)
 - [ ] [Project 3: Sequential Logic]()
 - [ ] [Project 4: Machine Language]()
 - [ ] [Project 5: Computer Architecture]()
